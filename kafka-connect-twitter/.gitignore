@@ -1,0 +1,4 @@
+connector-twitter-config.example.properties
+
+# MongoDB
+.docker/dbdata
